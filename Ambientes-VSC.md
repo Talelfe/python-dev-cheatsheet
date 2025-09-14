@@ -1,4 +1,4 @@
-# python-dev-cheatsheet
+# guia-entornos-VSC
 📓 Guía personal para la creación y gestión de entornos virtuales de Python directamente desde la interfaz de Visual Studio Code. 💻
 
 ## 💻 **Creación y Gestión de Entornos en VS Code**
